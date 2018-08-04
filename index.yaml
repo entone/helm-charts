@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   example:
   - apiVersion: v1
-    created: 2018-08-04T19:10:54.77160043Z
+    created: 2018-08-04T20:17:33.338655758Z
     description: A Helm chart for Kubernetes
     digest: d212847f0997beeead9e14a0461b4477399cdd6455a3ae97a3f0adcba9570cc6
     name: example
@@ -12,11 +12,11 @@ entries:
   vernemq:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-04T19:10:54.7719533Z
+    created: 2018-08-04T20:17:33.339006666Z
     description: A Helm chart for Kubernetes
-    digest: ba67cfeadec15d8416da6baeabf57bffc4cbec3253c5c9af054463dee9d8b1df
+    digest: 3a8655e6dae9f4f9fd813f3f8a0c713cd9a5f6a1c3ef7dbb600981b760aa7045
     name: vernemq
     urls:
     - vernemq/vernemq-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-04T19:10:54.771006131Z
+generated: 2018-08-04T20:17:33.338062004Z
